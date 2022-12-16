@@ -1,0 +1,18 @@
+{
+  "name": "discord-uno-bot",
+  "version": "0.0.1",
+  "private": "false",
+  "type": "module",
+  "description": "",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "author": "larssieboy18 <3jsijawsm@mozmail.com>",
+  "dependencies": {
+    "discord.js": "14.7.1"
+  },
+  "homepage": "https://github.com/larssieboy18/UnoOnDiscord",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larssieboy18/UnoOnDiscord"
+  }
+}
