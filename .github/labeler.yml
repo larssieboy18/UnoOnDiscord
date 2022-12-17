@@ -1,0 +1,23 @@
+locale:
+- locale/**/*
+
+workflow:
+- .github/workflows/**/*
+- .github/labeler.yml
+
+documentation:
+- .all-contributorsrc
+- README.md
+- LICENSE
+- .github/FUNDING.yml
+- .github/ISSUE_TEMPLATE/*
+
+dependencies:
+- package.json
+- .github/renovate.json
+
+code:
+- src/**/*
+
+automerge: # Translations are automatically merged if they have been approved inside Gitlocalize
+- locale/**/*

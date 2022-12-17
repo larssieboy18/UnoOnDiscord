@@ -1,0 +1,15 @@
+# https://github.com/loxygenK/taskonfirm
+
+name: PR Checkboxes
+
+on:
+  pull_request:
+    types: [ opened, edited ]
+
+jobs:
+  PR-checkbox:
+    if: github.event.pull_request.user.login != 'renovate[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: loxygenK/taskonfirm@v1.0.0
