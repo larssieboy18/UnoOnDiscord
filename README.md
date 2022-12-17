@@ -9,7 +9,7 @@ This project took inspiration and approaches from the projects listed below. No 
 
 <details>
   <summary>uno-chi by SaintMiner</summary>
-  
+
 MIT License Copyright (c) 2021 SaintMiner
 
 Permission is hereby granted, free of
