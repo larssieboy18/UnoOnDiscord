@@ -2,9 +2,7 @@
 
 name: PR Checkboxes
 
-on:
-  pull_request:
-    types: [ opened, edited ]
+on: [pull_request]
 
 jobs:
   PR-checkbox:
