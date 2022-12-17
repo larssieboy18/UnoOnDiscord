@@ -1,7 +1,9 @@
 {
   "name": "discord-uno-bot",
   "version": "0.0.1",
-  "private": "false",
+  "scripts": {
+    "start": "node ./src/bot.js"
+  },
   "type": "module",
   "description": "",
   "keywords": [],
