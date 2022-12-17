@@ -4,14 +4,14 @@
   "scripts": {
     "start": "node ./src/bot.js"
   },
-  "type": "module",
   "description": "",
   "keywords": [],
   "license": "MPL-2.0",
   "author": "larssieboy18 <3jsijawsm@mozmail.com>",
   "dependencies": {
     "discord.js": "14.7.1",
-    "dotenv": "16.0.0"
+    "dotenv": "16.0.0",
+    "fs-extra": "11.0.0"
   },
   "homepage": "https://github.com/larssieboy18/UnoOnDiscord",
   "repository": {
