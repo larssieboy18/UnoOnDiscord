@@ -5,7 +5,7 @@
 
 ## Acknowledgements
 
-This project took inspiration and approaches from the projects listed below. No code has been copied from these projects.
+This project took inspiration and approaches from the projects listed below. No code has been copied from these projects if this is not allowed under the license of that project. If you are the owner of one of these projects and want me to remove it, please contact me.
 
 <details>
   <summary>uno-chi by SaintMiner</summary>
