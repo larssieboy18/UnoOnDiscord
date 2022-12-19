@@ -11,6 +11,7 @@ documentation:
 - LICENSE
 - .github/FUNDING.yml
 - .github/ISSUE_TEMPLATE/*
+- Acknowledgements.md
 
 dependencies:
 - package.json
